@@ -1,0 +1,7 @@
+This is the list of banned url in TigerPhone / TigerOS.
+oracle.112.2o7.net
+mmstat.com
+cnzz.mmstat.com
+tanx.com
+wrating.com
+hm.baidu.com
