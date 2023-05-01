@@ -15,3 +15,10 @@ hm.baidu.com
 # 价值观不合
 jiayuan.com
 360.cn
+
+# 跳转到奇怪广告
+ljte0.com
+4cjh.xyz
+xiaofangtongzhi.xyz
+ufgg55.xyz
+yj4s.top
