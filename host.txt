@@ -1,24 +1,26 @@
 # This is the list of banned url in TigerPhone / TigerOS.
+#DOMAIN-SET,https://cdn.jsdelivr.net/gh/tigerga/TigerPhone@master/host.txt,REJECT
+
 # 漏洞
 oracle.112.2o7.net
 
 # 隐私跟踪
-cnzz.cn
-cnzz.com
-cnzz.net
-mmstat.com
+.cnzz.cn
+.cnzz.com
+.cnzz.net
+.mmstat.com
 cnzz.mmstat.com
-tanx.com
-wrating.com
+.tanx.com
+.wrating.com
 hm.baidu.com
 
 # 价值观不合
-jiayuan.com
-360.cn
+.jiayuan.com
+.360.cn
 
 # 跳转到奇怪广告
-ljte0.com
-4cjh.xyz
-xiaofangtongzhi.xyz
-ufgg55.xyz
-yj4s.top
+.ljte0.com
+.4cjh.xyz
+.xiaofangtongzhi.xyz
+.ufgg55.xyz
+.yj4s.top
