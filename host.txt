@@ -13,12 +13,14 @@ cnzz.mmstat.com
 .tanx.com
 .wrating.com
 hm.baidu.com
+sp0.baidu.com
+zhanzhang.toutiao.com
 
 # 价值观不合
 .jiayuan.com
 .360.cn
 
-# 跳转到奇怪广告
+# 小说网站的奇怪广告
 .ljte0.com
 .4cjh.xyz
 .xiaofangtongzhi.xyz
@@ -27,3 +29,10 @@ hm.baidu.com
 .chapai.xyz
 .du8l.com
 
+# 视频网站的奇怪广告
+.gqyoji.com
+.eavd.cn
+.oiqhwnkfdw.com
+.aoifxzqwoi.com
+.owprmops.com
+.qwfisdhbjw.com
